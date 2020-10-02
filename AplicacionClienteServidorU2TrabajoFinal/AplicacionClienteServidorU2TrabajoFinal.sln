@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorPeliculas", "..\..\..\..\Desktop\Cliente-ServidorPeliculas\ServidorPeliculas\ServidorPeliculas.csproj", "{314E03D3-B0D4-462B-812A-DFED3AC2F83D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio5_ClientePeliculas", "..\..\AplicacionesClienteServidorU2_HectorMaldonado\EjerciciosU2ClienteServidor\Ejercicio5_ClientePeliculas\Ejercicio5_ClientePeliculas.csproj", "{B618C381-7E14-4F41-A401-498250FB7FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314E03D3-B0D4-462B-812A-DFED3AC2F83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314E03D3-B0D4-462B-812A-DFED3AC2F83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314E03D3-B0D4-462B-812A-DFED3AC2F83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314E03D3-B0D4-462B-812A-DFED3AC2F83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B618C381-7E14-4F41-A401-498250FB7FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B618C381-7E14-4F41-A401-498250FB7FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B618C381-7E14-4F41-A401-498250FB7FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B618C381-7E14-4F41-A401-498250FB7FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {610C2AB3-AF18-4ABF-B067-33D16F50125F}
+	EndGlobalSection
+EndGlobal
